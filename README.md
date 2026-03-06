@@ -93,9 +93,9 @@ source("code/analise.R")
 Se você utilizar estes dados, por favor cite:
 
 ```
-VASCONCELLOS, Bianca Louzada Xavier. Análise bibliométrica sobre o uso dos 
-Censos brasileiros no século XXI. [informações do periódico], [ano]. 
-DOI: [adicionar]
+VASCONCELLOS, Bianca Louzada Xavier; FLEXOR, Georges Gérard. Análise bibliométrica sobre o uso dos 
+Censos brasileiros no século XXI. REBEP, 2026. 
+DOI: [ ---- ]
 ```
 
 ---
@@ -109,5 +109,5 @@ Os dados estão disponibilizados sob a licença [Creative Commons CC BY 4.0](htt
 ## Contato
 
 Dúvidas ou sugestões? Entre em contato:  
-📧 [seu e-mail]  
-🔗 [seu ORCID ou Lattes]
+🔗 [https://www.linkedin.com/in/bianca-louzada-xavier-vasconcellos-45b258169/]  
+🔗 [https://lattes.cnpq.br/6522952293111002]
